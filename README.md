@@ -32,9 +32,10 @@ Create a directory named "MyLab" on the desktop.
 
 mkdir %userprofile%\Desktop\MyLab
 ![325093274-30906be8-14a0-42df-be77-32fd1db31b60](https://github.com/user-attachments/assets/9a2cc7df-d480-435a-8f98-4feea6f2a0e9)
+
+
+
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
-
-
 
 ## COMMAND AND OUTPUT
 cd %userprofile%\Desktop\MyLab
